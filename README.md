@@ -81,60 +81,23 @@ DevOps and Cloud Engineer with 7+ years of experience designing, automating, and
 
 ## 💻 Technical Skills
 
-### Cloud Platforms
-- AWS
-- Microsoft Azure
-- Google Cloud Platform (GCP)
+- **Cloud Platforms:** AWS | Azure | GCP
 
-### Infrastructure as Code
-- Terraform
-- Terraform Cloud
-- CloudFormation
+- **Infrastructure as Code:** Terraform | Terraform Cloud | CloudFormation
 
-### Containers & Orchestration
-- Docker
-- Kubernetes
-- Helm
-- EKS
-- AKS
-- GKE
+- **Containers & Orchestration:** Docker | Kubernetes | Helm | EKS | AKS | GKE
 
-### CI/CD & GitOps
-- Jenkins
-- GitHub Actions
-- Azure DevOps
-- ArgoCD
+- **CI/CD & GitOps:** Jenkins | GitHub Actions | Azure DevOps | ArgoCD
 
-### Configuration Management
-- Ansible
+- **Configuration Management:** Ansible
 
-### Monitoring & Logging
-- Prometheus
-- Grafana
-- ELK Stack
-- CloudWatch
+- **Monitoring & Logging:** Prometheus | Grafana | ELK Stack | CloudWatch
 
-### Programming & Scripting
-- Python
-- Bash
-- PowerShell
+- **Programming & Scripting:** Python | Bash | PowerShell
 
-### Security
-- OWASP Top 10
-- SonarQube
-- Trivy
-- IAM & RBAC
-- Kubernetes Security
-- DevSecOps Practices
+- **Security:** OWASP Top 10 | SonarQube | Trivy | IAM & RBAC | Kubernetes Security | DevSecOps
 
-### Databases
-- SQL Server
-- PostgreSQL
-- MySQL
-- Amazon RDS
-- Amazon Aurora
-- Redis
-- DynamoDB
+- **Databases:** SQL Server | PostgreSQL | MySQL | Amazon RDS | Amazon Aurora | Redis | DynamoDB
 
 ---
 

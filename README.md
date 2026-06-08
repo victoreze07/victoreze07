@@ -40,45 +40,6 @@ DevOps and Cloud Engineer with 7+ years of experience designing, automating, and
 
 ---
 
-## 🛠️ Cloud & DevOps Projects
-
-### 🚀 [Fitness Microservices Application](https://github.com/victoreze07/fitness-microservices)
-
-- Node.js microservices architecture
-- Docker containerization
-- Kubernetes deployment
-- Jenkins CI/CD pipeline
-- ArgoCD GitOps
-- Terraform infrastructure provisioning
-
-### AWS Infrastructure Automation with Terraform
-- Designed and deployed highly available AWS infrastructure using Terraform
-- Implemented VPCs, EC2, IAM, Load Balancers, Route53, and S3
-- Followed Infrastructure as Code best practices
-
-### Jenkins CI/CD Pipeline
-- Automated build, testing, security scanning, containerization, and deployments
-- Integrated Jenkins, SonarQube, Trivy, Docker, and Kubernetes
-
-### GitOps with ArgoCD
-- Implemented GitOps workflows using ArgoCD
-- Automated Kubernetes deployments and rollback strategies
-
-### Monitoring & Observability Platform
-- Implemented monitoring using Prometheus and Grafana
-- Centralized logging using ELK Stack
-- Configured dashboards, alerting, and incident response workflows
-
-### 🚀 [Ansible Server Automation](https://github.com/victoreze07/fitness-microservices-app/tree/main/ansible)
-
-- Automated server provisioning and configuration using Ansible
-- Installed and configured Java, Docker, Node.js, Jenkins, and Trivy
-- Implemented reusable playbooks and inventory management
-- Automated DevOps toolchain deployment and system configuration
-- Reduced manual setup effort through Infrastructure as Code practices
-
----
-
 ## 💻 Technical Skills
 
 - **Cloud Platforms:** AWS | Azure | GCP

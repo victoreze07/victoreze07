@@ -19,8 +19,8 @@ DevOps and Cloud Engineer with 7+ years of experience designing, automating, and
 |----------|-------------|
 | [Fitness Microservices](https://github.com/victoreze07/fitness-microservices-app) | Node.js, Docker, Kubernetes, Jenkins, ArgoCD |
 | [AWS Infrastructure Automation](https://github.com/victoreze07/fitness-microservices-app/tree/main/terraform-ec2) | Terraform, AWS |
-| GitOps Deployment Platform | Kubernetes, ArgoCD |
-| Monitoring Stack | Prometheus, Grafana, ELK |
+| [GitOps Deployment Platform](https://github.com/victoreze07/fitness-microservices-app/tree/main/argocd) | Kubernetes, ArgoCD |
+| [Monitoring Stack](https://github.com/victoreze07/fitness-microservices-app/tree/main/monitoring) | Prometheus, Grafana |
 | [Ansible Server Automation](https://github.com/victoreze07/fitness-microservices-app/tree/main/ansible) | Ansible, Linux |
 
 ---

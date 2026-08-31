@@ -48,13 +48,11 @@ I’ve consistently helped teams reduce manual operations, strengthen security, 
 
 - **Cloud Platforms:** AWS | Azure | GCP
 
-- **Infrastructure as Code:** Terraform | Terraform Cloud | CloudFormation
+- **Infrastructure as Code:** Terraform | Terraform Cloud | CloudFormation | Ansible
 
 - **Containers & Orchestration:** Docker | Kubernetes | Helm | EKS | AKS | GKE
 
 - **CI/CD & GitOps:** Jenkins | GitHub Actions | Azure DevOps | ArgoCD
-
-- **Configuration Management:** Ansible
 
 - **Monitoring & Logging:** Prometheus | Grafana | ELK Stack | CloudWatch
 

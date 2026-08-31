@@ -1,6 +1,6 @@
 # Hi, I'm Victor! 👋
 
-### DevOps & Cloud Engineer | Kubernetes Administrator | Infrastructure Automation Specialist
+### DevOps & Cloud Engineer | Database Administrator
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
 ![Azure](https://img.shields.io/badge/Azure-Cloud-blue?style=for-the-badge&logo=microsoftazure)

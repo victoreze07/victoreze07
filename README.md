@@ -9,7 +9,11 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-CKA-blue?style=for-the-badge&logo=kubernetes)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-GitOps-orange?style=for-the-badge&logo=argo)
 
-DevOps and Cloud Engineer with 7+ years of experience designing, automating, and managing cloud infrastructure across AWS, Azure, and GCP. Passionate about Infrastructure as Code, Kubernetes, CI/CD, GitOps, cloud security, and building scalable platforms.
+Cloud & DevOps Engineer with 7+ years of experience designing, automating, and supporting secure, highly available production environments on AWS and Azure. I specialize in building scalable infrastructure with Terraform, Kubernetes, EKS, Argo CD, Helm, and CI/CD pipelines.
+
+With a strong background in Microsoft SQL Server and cloud database administration, I bring deep expertise in performance tuning, database migrations, observability, security, and disaster recovery. I’m passionate about automation, reliability engineering, and improving developer workflows through well‑designed cloud platforms.
+
+I’ve consistently helped teams reduce manual operations, strengthen security, accelerate deployments, and maintain business‑critical systems in fast‑paced enterprise environments.
 
 ---
 
